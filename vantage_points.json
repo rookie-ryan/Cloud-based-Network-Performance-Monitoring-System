@@ -1,4 +1,10 @@
 {
-  "virginia": "44.192.46.176",
-  "test": "59.66.17.150"
+  "aws_virginia": "3.233.234.247",
+  "aws_ohio":"3.137.185.136",
+  "aws_california":"13.56.12.220",
+  "aws_oregon":"52.33.107.115",
+  "aws_hongkong":"18.162.115.236",
+  "google_asia_east1":"34.81.94.142",
+  "google_eu_central2":"34.118.63.203",
+  "google_aus_southeast1":"34.151.123.147"
 }
