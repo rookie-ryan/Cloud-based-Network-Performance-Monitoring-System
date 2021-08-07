@@ -40,4 +40,4 @@ In the result files, each line represents a test. The data format is *time:{ip:{
 }
 ```
 ## Monitoring parameters
-If needed, you can customize the monitoring parameters at `monitor_parameters.json`. The parameters includes **monitoring interval** (seconds, default is 30), **test package size** (data bytes combined with 8 bytes of header, default is 56) and **the number of packages sent for each test** (default is 4).
+If needed, you can customize the monitoring parameters at `monitor_parameters.json`. The parameters includes **monitoring interval** (seconds, default is 30), **test package size** (data bytes combined with 8 bytes of header, default is 56) and **the number of packages sent for each test** (default is 10).

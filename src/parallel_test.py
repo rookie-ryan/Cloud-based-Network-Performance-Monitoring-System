@@ -17,7 +17,7 @@ output_path = "data/"
 # get parameter
 with open(parameter_file, "r") as parameter_file_f:
     parameters = json.load(parameter_file_f)
-    interval = parameters['interval']-3  # ping command takes about 3 seconds
+    interval = parameters['interval']  # ping command takes about 3 seconds
     packet_size = parameters['size']
     packet_num = parameters['number']
 
